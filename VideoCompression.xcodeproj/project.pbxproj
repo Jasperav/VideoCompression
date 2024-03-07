@@ -15,7 +15,7 @@
 		69DCF0FA2B98F205004429E2 /* VideoCompressionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69DCF0F92B98F205004429E2 /* VideoCompressionUITests.swift */; };
 		69DCF0FC2B98F205004429E2 /* VideoCompressionUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69DCF0FB2B98F205004429E2 /* VideoCompressionUITestsLaunchTests.swift */; };
 		69DCF10B2B98F4FD004429E2 /* VideoEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69DCF10A2B98F4FD004429E2 /* VideoEditor.swift */; };
-		69DCF10F2B99A2D7004429E2 /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 69DCF10E2B99A2D7004429E2 /* video.mp4 */; };
+		69F2E4552B9A260B0004FC13 /* video.mov in Resources */ = {isa = PBXBuildFile; fileRef = 69F2E4542B9A260B0004FC13 /* video.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +48,7 @@
 		69DCF0F92B98F205004429E2 /* VideoCompressionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCompressionUITests.swift; sourceTree = "<group>"; };
 		69DCF0FB2B98F205004429E2 /* VideoCompressionUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCompressionUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		69DCF10A2B98F4FD004429E2 /* VideoEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoEditor.swift; sourceTree = "<group>"; };
-		69DCF10E2B99A2D7004429E2 /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
+		69F2E4542B9A260B0004FC13 /* video.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = video.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,7 +119,7 @@
 		69DCF0EE2B98F205004429E2 /* VideoCompressionTests */ = {
 			isa = PBXGroup;
 			children = (
-				69DCF10E2B99A2D7004429E2 /* video.mp4 */,
+				69F2E4542B9A260B0004FC13 /* video.mov */,
 				69DCF0EF2B98F205004429E2 /* VideoCompressionTests.swift */,
 				69DCF10A2B98F4FD004429E2 /* VideoEditor.swift */,
 			);
@@ -248,7 +248,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				69DCF10F2B99A2D7004429E2 /* video.mp4 in Resources */,
+				69F2E4552B9A260B0004FC13 /* video.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
